@@ -35,3 +35,9 @@
 ```bash
 pip install pygame pynput tkinter
 ```
+
+2. Run the virus.
+
+```bash
+python3 PixelPanic.py
+```
